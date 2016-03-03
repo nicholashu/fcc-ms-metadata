@@ -12,7 +12,7 @@ app.get('/', function(req, res) {
 
 
 app.post('/api/fileanalyse/', upload.single('file'), function (req, res, next) {
-        res.send({filesize: req.file.size});
+        res.json({filesize: req.file.size});
     }
 );
 
