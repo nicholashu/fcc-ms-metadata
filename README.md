@@ -1,6 +1,5 @@
-<!DOCTYPE html>
-<html>
-<body>
+
+
 	<p>
 		This is a very simple test harness which posts to 
 		<a href="https://fcc-ms-filemeta-nicholashu.c9users.io//api/fileanalyse">
@@ -12,7 +11,5 @@
           <button class="btn btn-primary" type="submit">Submit</button>
         </div>
       </form>
-</body>
 
-</html>
-Status API Training Shop Blog About
+
